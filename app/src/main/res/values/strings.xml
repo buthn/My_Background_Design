@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Background Design</string>
+    <string-array name="Gender">
+        <item>I am a...</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="countryCode">
+        <item>(OM) +986</item>
+        <item>(Us) +1</item>
+    </string-array>
+</resources>
